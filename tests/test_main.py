@@ -1,5 +1,5 @@
 import random
-from typoglycemia.main import shuffle, make_typoglycemia
+from src.typoglycemia.main import shuffle, make_typoglycemia
 import subprocess
 import sys
 import pytest
