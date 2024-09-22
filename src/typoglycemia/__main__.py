@@ -1,4 +1,4 @@
 import typoglycemia
 import sys
 
-sys.exit(typoglycemia.main())
+sys.exit(typoglycemia.main.cli())
